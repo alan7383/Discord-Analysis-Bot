@@ -4,7 +4,7 @@ A Discord bot designed to analyze APK files using the VirusTotal API. This bot s
 
 ## Features
 
-- **Automated APK analysis**: Users can upload APK files for instant analysis.
+- **Automated APK analysis**: Users can upload APK files, and the bot will automatically analyze them.
 - **VirusTotal API integration**: Utilizes VirusTotal to scan APKs and return detailed reports.
 - **Secure and easy-to-use**: Ensures a streamlined experience within Discord.
 
@@ -47,8 +47,7 @@ A Discord bot designed to analyze APK files using the VirusTotal API. This bot s
 
 ## Usage
 - Invite the bot to your Discord server.
-- Use the command `/analyze` followed by an APK file attachment.
-- The bot will respond with a security report from VirusTotal.
+- When an APK file is uploaded in the server, the bot will automatically analyze it and provide a security report from VirusTotal.
 
 ## Public Bot Invitation
 If you prefer not to host the bot yourself, use the following invitation link to add the bot directly to your server:
