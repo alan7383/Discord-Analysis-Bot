@@ -22,7 +22,7 @@ A Discord bot designed to analyze APK files using the VirusTotal API. This bot s
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/discord-analysis-bot.git
+   git clone https://github.com/alan7383/discord-analysis-bot.git
    cd discord-analysis-bot
    ```
 
